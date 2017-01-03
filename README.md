@@ -77,7 +77,7 @@ Books
 - [ ] Learning Docker (Packt online)
 - [ ] Continuous Delivery and DevOps: A Quickstart Guide (Packt online)
 - [ ] Learning ECMAScript6 (Packt online)
-- [ ] ProGit (online)
+- [x] ProGit
 - [ ] https://github.com/opensourceway/open-org-leaders-manual
 - [ ] https://github.com/opensourceway/open-org-field-guide
 - [ ] https://github.com/opensourceway/catalyst-in-chief[ ]
