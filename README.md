@@ -100,3 +100,7 @@ Testing in Go Lang
 
 http://www.eclipse.org/community/eclipse_newsletter/2016/december/article3.php
 - The role of the tester has been changing due to agile processes – and this is likely to continue. Testers are integrated team members and the whole team shares the responsibility for quality. Testers are growing into roles like test consultants, test coaches, test experts and also communication experts. The last point is especially relevant in my mind. As much as we might like to develop one, there is no formalized language that removes the need for discussion, questions, clarification and conversation amongst stakeholders, team members and users. We are already seeing testers working to improve team communication about quality and user expectations – and I see this trend continuing.
+
+New:
+- Jan 3, https://dzone.com/articles/how-to-get-into-devops
+
