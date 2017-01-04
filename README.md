@@ -41,9 +41,11 @@ Resources
 
 - Microservices
     - NetFlix APIs
+    - http://www.martinfowler.com/articles/microservices.html
 
 - Agile
-    - Scrum, Canberra
+    - Scrum
+    - Kanban
 
 - DevOps
     - https://github.com/redhat-helloworld-msa/helloworld-msa
@@ -104,4 +106,7 @@ http://www.eclipse.org/community/eclipse_newsletter/2016/december/article3.php
 
 New:
 - Jan 3, https://dzone.com/articles/how-to-get-into-devops
+- Jan 4, https://dzone.com/links/holiday-homework-red-hat-cloud-demo-updates.html
+
+
 
