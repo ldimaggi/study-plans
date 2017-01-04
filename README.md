@@ -77,6 +77,7 @@ Books
 - [ ] Learning Docker (Packt online)
 - [ ] Continuous Delivery and DevOps: A Quickstart Guide (Packt online)
 - [ ] Learning ECMAScript6 (Packt online)
+- [] Red Hat Bok - Microservices for Java Developers (https://developers.redhat.com/promotions/microservices-for-java-developers/)
 - [x] ProGit
 - [ ] https://github.com/opensourceway/open-org-leaders-manual
 - [ ] https://github.com/opensourceway/open-org-field-guide
