@@ -107,6 +107,8 @@ http://www.eclipse.org/community/eclipse_newsletter/2016/december/article3.php
 New:
 - Jan 3, https://dzone.com/articles/how-to-get-into-devops
 - Jan 4, https://dzone.com/links/holiday-homework-red-hat-cloud-demo-updates.html
+- Jan 9. https://golang.org/doc/effective_go.html#introduction
+
 
 
 
