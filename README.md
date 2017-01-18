@@ -11,6 +11,7 @@
 - Learning from Google
 - SCM
 - github
+- Open Source
 
 Resources
 
@@ -70,6 +71,9 @@ Resources
 
 - github
     - https://github.com/ldimaggi/study-plans
+    
+- Open Source    
+    - TBD
 
 Books
 - [x] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
