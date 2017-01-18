@@ -73,7 +73,10 @@ Resources
     - https://github.com/ldimaggi/study-plans
     
 - Open Source    
-    - TBD
+    - https://opensource.com/
+    - https://www.theopensourceway.org/wiki/Main_Page
+    
+    
 
 Books
 - [x] The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
