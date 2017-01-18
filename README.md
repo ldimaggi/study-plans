@@ -108,6 +108,8 @@ New:
 - Jan 3, https://dzone.com/articles/how-to-get-into-devops
 - Jan 4, https://dzone.com/links/holiday-homework-red-hat-cloud-demo-updates.html
 - Jan 9. https://golang.org/doc/effective_go.html#introduction
+- Jan 18, https://leanpub.com/microservices-primer
+
 
 
 
